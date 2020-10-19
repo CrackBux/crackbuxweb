@@ -1,0 +1,2 @@
+# crackbuxweb
+Static Website
